@@ -3,6 +3,6 @@ module.exports = {
   addons: [
     "@storybook/addon-links",
     "@storybook/addon-essentials",
-    "storybooks-xstate-addon/preset",
+    "storybook-xstate-addon/preset",
   ],
 };
